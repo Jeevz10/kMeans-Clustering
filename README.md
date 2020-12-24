@@ -1,5 +1,5 @@
 # kMeans-Clustering
-This is the second assignment I did when taking the course -- Big Data for Data Science. This assignment rquired me to implement kMeans clustering in Spark without the use of MLib. The programming language used is Scala.  
+This is the second assignment I did when taking the course -- Big Data for Data Science. This assignment required me to implement kMeans clustering in Spark without the use of MLib. The programming language used is Scala.  
 
 ### Problem Statement 
 
